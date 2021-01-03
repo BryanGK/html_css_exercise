@@ -1,0 +1,1 @@
+Html and css practice exercises from the odin project
